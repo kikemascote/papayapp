@@ -39,7 +39,10 @@ public class FoodUtils {
 
             case 2:
                 return context.getResources().getString(R.string.unit_pound);
-
+            case 3:
+                return context.getResources().getString(R.string.unit_kilo);
+            case 4:
+                return context.getResources().getString(R.string.unit_gram);
             default:
                 return null;
         }

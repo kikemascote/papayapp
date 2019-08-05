@@ -37,7 +37,7 @@
     <!-- fabs related strings-->
     <string name="main_fab_label">Cancel</string>
     <string name="add_food_fab_label">Add item</string>
-    <string name="add_section_fab_label">fab label</string>
+    <string name="add_section_fab_label">Add Section</string>
 
     <!-- dialog related strings -->
     <string name="cancel_text">Cancel</string>
@@ -63,8 +63,8 @@
     <string name="unit_piece">Piece</string>
     <string name="unit_ounce">Ounce</string>
     <string name="unit_pound">Pound</string>
-    <string name="unit_kilo">Kilos</string>
-    <string name="unit_gram">Grams</string>
+    <string name="unit_kilo">Kilo</string>
+    <string name="unit_gram">Gram</string>
 
     <string-array name="unit_array">
         <item>@string/unit_piece</item> <!-- int = 0 -->
