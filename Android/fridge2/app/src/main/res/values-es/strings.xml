@@ -103,4 +103,5 @@
     <string name="todo">Por Hacer</string>
     <string name="unit_gram">Gramos</string>
     <string name="unit_kilo">Kilos</string>
+    <string name="about_us_version_text">Versión 0.1 Alpha</string>
 </resources>

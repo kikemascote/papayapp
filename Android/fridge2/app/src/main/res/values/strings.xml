@@ -109,7 +109,7 @@
 
     <!-- about us related strings -->
     <string name="about_us_app_title" translatable="false">Papaya!</string>
-    <string name="about_us_version_text" translatable="false">Version 0.1 Alpha</string>
+    <string name="about_us_version_text">Version 0.1 Alpha</string>
     <string name="about_us" translatable="false">The Hipster Coding Company</string>
     <string name="about_us_rights_text" translatable="false">© 2019 The Hipster Coding Company All Rights Reserved</string>
 
